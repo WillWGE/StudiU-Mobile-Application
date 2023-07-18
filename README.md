@@ -1,1 +1,1 @@
-# StudiU-Mobile-Application
+# StudiU Application
